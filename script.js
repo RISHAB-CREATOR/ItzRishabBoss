@@ -83,18 +83,18 @@ $(document).ready(function(){
 });
 
 document.oncontextmenu = () => {
-    alert("Pls dont try to steal the codes Restricted By Rishab")
+    alert("Pls dont try to steal the codes Restricted By Krishna")
     return false;
 
 }
 
 document.onkeydown = e => {
     if(e.key == "F12"){
-        alert("Pls dont try to steal the codes Restricted By Rishab")
+        alert("Pls dont try to steal the codes Restricted By Krishna")
         return false
     }
     if(e.ctrlKey && e.key == "u") {
-        alert("Pls dont try to steal the codes Restricted By Rishab")
+        alert("Pls dont try to steal the codes Restricted By Krishna")
         return false
     }
 }
