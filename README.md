@@ -27,7 +27,7 @@ I'm Rishab, a passionate and creative individual in the world of technology. My 
 ## Connect with Me 🤝
 
 - Instagram: [@RishabNotFound](https://instagram.com/rishabnotfound)
-- Discord: [Join our Server]([https://twitter.com/RishabDev](https://discord.gg/bosskingdom-comeback-1090560322760347649))
+- Discord: [ServerLink](https://discord.gg/bosskingdom-comeback-1090560322760347649)
 - Email: [ItzRishabBoss@gmail.com](mailto:itzrishabboss@gmail.com)
 
 ## Feedback 🔧
